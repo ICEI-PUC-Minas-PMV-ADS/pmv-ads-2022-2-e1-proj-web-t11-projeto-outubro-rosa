@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+Outubro Rosa
 
-`CURSO`
+Tecnologia em Anmalise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Desenvolvimento de aplicação web Front-End
 
-`SEMESTRE`
+1º Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto Outubro Rosa tem como objetivo divulgar e incentivar a prevenção so cancer de mama entre a população, proporcionar maior acesso aos serviços,diagnóstico e de tratamento e contribuir para a redução da mortalidade.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Lívia Rosa Castanheira
+* Paloma Borges de Souza Pereira
+* Kenio Portes Nascimento
+* Rafael dos Santos Rodrigues
+* Alexandre Cardoso de Lemos Junior
 
 ## Orientador
 
-* Nome completo do professor 1
+Joyce Christina de Paiva Carvalho
 
 ## Instruções de utilização
 
