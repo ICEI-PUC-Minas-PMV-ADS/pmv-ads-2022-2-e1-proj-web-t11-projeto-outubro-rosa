@@ -54,7 +54,7 @@ A equipe está organizada da seguinte maneira:
 
 ### Processo
 
-Projeto de interface
+PROJETO DE INTERFACE
 
 
 No projeto de interface focamos para que o site tenha funcionalidade, usabilidade e acessibilidade. O projeto busca facilitar a interação do usuário bem como acesso às informações e compartilhamento
@@ -130,7 +130,7 @@ Este resultado é apresentado na figura a seguir:
 
 ### Ferramentas
 
-Arquitetura de solução 
+ARQUITETURA DA SOLUÇÃO
 
 Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem da solução.
 
