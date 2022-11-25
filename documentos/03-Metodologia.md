@@ -54,6 +54,9 @@ A equipe está organizada da seguinte maneira:
 
 ### Processo
 
+Projeto de interface
+
+
 No projeto de interface focamos para que o site tenha funcionalidade, usabilidade e acessibilidade. O projeto busca facilitar a interação do usuário bem como acesso às informações e compartilhamento
 
 FLUXO DO USUÁRIO
@@ -63,7 +66,7 @@ O fluxograma a seguir mostra a interação do usuário no site conforme a figura
 ![image](https://user-images.githubusercontent.com/117127986/204020821-c8612135-a7bd-4b03-bcbd-8300f00efffd.png)
                                      Figura 3
                                      
-WIREFLAME
+WIREFLAME 
 
 Conforme o fluxo do projeto de interface, o design das páginas seguirá uma estrutura comum com 3 blocos descritos a segu:
 
@@ -76,7 +79,7 @@ Conforme o fluxo do projeto de interface, o design das páginas seguirá uma est
 ![image](https://user-images.githubusercontent.com/117127986/204021474-ce2289d2-0a8f-4caa-b77d-ef660b66f731.png)
                                             Figura 4
  
- TELA HOME-PAGe
+ TELA HOME-PAGE
 
 A tela de  Home-Page  mostra noticias em destaque, sobre os temas principais.
 Com base na estrutura padrão, o bloco de conteúdo  traz  os informativos em destaque , o bloco da barra lateral tras  dois elementos distintos:
@@ -126,6 +129,8 @@ Este resultado é apresentado na figura a seguir:
 
 
 ### Ferramentas
+
+Arquitetura de solução 
 
 Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem da solução.
 
