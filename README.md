@@ -1,6 +1,6 @@
 Outubro Rosa
 
-Tecnologia em Anmalise e Desenvolvimento de Sistemas
+Tecnologia em Analise e Desenvolvimento de Sistemas
 
 Desenvolvimento de aplicação web Front-End
 
