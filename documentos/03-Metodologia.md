@@ -108,6 +108,9 @@ A tela de notícias de categorias apresenta, no Bloco de Conteúdo, as notícias
 
 ![image](https://user-images.githubusercontent.com/117127986/204030312-5fe591f2-97f7-459b-8936-f43201a16aac.png)
 
+![WhatsApp Image 2022-11-28 at 09 57 57](https://user-images.githubusercontent.com/117127986/204284184-4a65ad4f-e848-411e-afd0-4245abda8219.jpeg)
+
+
 ![image](https://user-images.githubusercontent.com/117127986/204030361-8514280e-f33b-4441-a4e5-855395b18fff.png)
 
 ![image](https://user-images.githubusercontent.com/117127986/204030445-6bd159a4-608d-4654-ad3c-35fe34ea858f.png)
