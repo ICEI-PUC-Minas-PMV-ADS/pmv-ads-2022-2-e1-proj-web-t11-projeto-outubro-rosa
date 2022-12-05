@@ -10,11 +10,11 @@ O projeto Outubro Rosa tem como objetivo divulgar e incentivar a prevenção so 
 
 ## Integrantes
 
-* Lívia Rosa Castanheira
-* Paloma Borges de Souza Pereira
-* Kenio Portes Nascimento
-* Rafael dos Santos Rodrigues
-* Alexandre Cardoso de Lemos Junior
+*  Alexandre Cardoso De  Lemos Junio
+* Kenio Portes Nascimento 
+* Lívia Rosa Castanheira 
+* Paloma Borges de Souza Pereir
+*  Rafael dos Santos Rodrigues
 
 ## Orientador
 
