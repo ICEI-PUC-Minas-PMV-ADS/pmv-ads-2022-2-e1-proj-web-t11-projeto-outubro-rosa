@@ -14,8 +14,9 @@ O padrão de layout da página inicial a ser utilizado pelo site tem correspond�
 
 
 
+Tela de Visualização das categorias
 
-O padrão de layout da tela de notícias de categorias apresenta, no Bloco de Conteúdo, as notícias referentes a uma categoria específica, conforme a figura a seguir: 
+Local onde são exibidas as informa  das categorias dos sites e os links de acesso local e externo.
 
 ![image](https://user-images.githubusercontent.com/117127986/205985812-15e3c419-a2fa-4bc7-bbf8-8b4a2f05ca2a.png)
 
