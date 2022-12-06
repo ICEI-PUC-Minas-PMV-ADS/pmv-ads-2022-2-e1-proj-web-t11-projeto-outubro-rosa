@@ -29,3 +29,17 @@ O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PM
     • Links de acesso às páginas externas.
 
 A responsividade segue o padrão do Grid, iconografia padrão Bootstrap, o layout do site html e css.
+
+
+Tela Principal
+
+Tela que abrange as informações inici do  site, e  cada uma das categorias  apresentadas nas proximas páginas.
+
+
+Tela de Visualização de Informações
+
+Local onde são exibidas as informações das categorias, bem como os links de acesso para as demais páginas do site e páginas externas.
+
+![Captura de Tela (152)](https://user-images.githubusercontent.com/117127986/205997908-f685f6a8-5661-47e6-b5d4-fc8258869e0b.png)
+
+
