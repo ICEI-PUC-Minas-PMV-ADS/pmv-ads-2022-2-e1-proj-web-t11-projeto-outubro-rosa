@@ -1,19 +1,25 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+Os requisitos para realização dos testes de software são:
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+⦁	Site publicado na Internet
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+⦁	Navegador da Internet - Chrome, Firefox ou Edge
 
-Comente sobre as ferramentas de testes utilizadas.
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+⦁	Conectividade de Internet para acesso às plataformas (APISs)
+
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
+
+![Captura de Tela (7)](https://user-images.githubusercontent.com/117127986/206918873-978625d3-777e-4d44-8cb7-a2bd4f72cad9.png)
+
+![Captura de Tela (8)](https://user-images.githubusercontent.com/117127986/206919253-68cd33eb-d63f-4d5e-911d-e7e96c37123b.png)
+
+![Captura de Tela (9)](https://user-images.githubusercontent.com/117127986/206919674-368364a4-cb6b-43b3-a84b-9a13bd7c03a2.png)
+
+![Captura de Tela (11)](https://user-images.githubusercontent.com/117127986/206919865-31253a9f-eaa3-4b9f-96ed-ef2f069ffc04.png)
+
+
+
+
+
+
