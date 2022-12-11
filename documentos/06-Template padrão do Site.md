@@ -36,6 +36,9 @@ Tela Principal
 
 Tela que abrange as informações inici do  site, e  cada uma das categorias  apresentadas nas proximas páginas.
 
+![Captura de Tela (1)](https://user-images.githubusercontent.com/117127986/206911363-fa509db0-37a8-4b94-ae36-2f9727151994.png)
+
+
 
 Tela de Visualização de Informações
 
