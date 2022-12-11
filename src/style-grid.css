@@ -12,7 +12,9 @@ body {
             "rodape";
     grid-gap: 5px; ;
 }
-
+.banner {
+width: 100%; height: 300px;
+}
 header {
    
     grid-area: cabecalho;
