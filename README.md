@@ -42,7 +42,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* Para ter acesso a aplicação , <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t11-projeto-outubro-rosa/src/ 
+">clique aqui</a>.
 
 # Armazenamento do Código-Fonte
 
