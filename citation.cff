@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rosa Castanheira"
+  given-names: "Livia"
+
+- family-names: "Borges de Souza Pereira"
+  given-names: "Paloma"
+ 
+title: "pmv-ads-2022-2-e1-proj-web-t11-projeto-outubro-rosa"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-06-21
+url: "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t11-projeto-outubro-rosa"
